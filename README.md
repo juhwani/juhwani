@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Problem Solver from South Korea</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/juhwan-jung]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your Name]-blue?style=flat&logo=linkedin"></a>
+  <a href="[https://www.linkedin.com/in/juhwan-jung]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Jay Jung]-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---

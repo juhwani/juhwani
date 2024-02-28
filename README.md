@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Jay 👋</h1>
-<h3 align="center">A passionate Problem Solver from South Korea</h3>
+<h3 align="center">A passionate Problem Solver at Penn State</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/juhwan-jung]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay Jung-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/juhwan-jung"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay Jung-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
@@ -37,4 +37,4 @@ I'm an aspiring software engineer, with a passion for web development and AI. I 
 
 ---
 
-⭐️ From [Your Name](https://github.com/juhwani])
+⭐️ From Jay Jung (https://github.com/juhwani])

@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Problem Solver from South Korea</h3>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your Name]-blue?style=flat&logo=linkedin"></a>
-  <a href="[Your Twitter URL]"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-[Your Twitter Handle]-blue?style=flat&logo=twitter"></a>
+  <a href="[https://www.linkedin.com/in/juhwan-jung]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your Name]-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
